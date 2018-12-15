@@ -1,4 +1,5 @@
 @extends('main')
+@section('title', ' | Contact')
 @section('content')
 <div class="col-md-12">
     <h2>Contact</h2>
